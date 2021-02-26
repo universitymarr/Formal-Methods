@@ -1,4 +1,4 @@
-# Formal Methods - Sapienza 2020
+# Formal Methods
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
